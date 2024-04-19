@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **React, Flutter**
+- 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **tedzena19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oxSw9b5-6ctnCPcmqdMx2rwg2yUrXbXr/view?usp=sharing](https://drive.google.com/file/d/1oxSw9b5-6ctnCPcmqdMx2rwg2yUrXbXr/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1oxSw9b5-6ctnCPcmqdMx2rwg2yUrXbXr/view?usp=sharing](https://drive.google.com/file/d/1si1JuXX6N-f2-UxGfUO9l4xmNSXPC1q2/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
